@@ -7,7 +7,7 @@ read -p "Have you run part 1? Y/N " answer
 while true
 do
   case $answer in
-   [yY]* ) echo "This is the verification process. If it fails, did you logoff after part 1?"
+   [yY]* ) echo "This is the verification process."
            docker version
            docker run hello-world
            exit;;
