@@ -1,4 +1,5 @@
 #!/bin/bash
+# Made by Noska (github.com/NoskaOff)
 
 echo This an installer for the latest version of Docker.
 read -p "Have you run part 1? Y/N " answer
