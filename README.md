@@ -10,6 +10,7 @@ Please send a pull request if you test this on another system
 
 ```
 git clone https://github.com/NoskaOff/DockerInstaller.git
+cd DockerInstaller/
 chmod +x DockerInstaller.sh
-./DockerInstaller.sh
+sudo ./DockerInstaller.sh
 ```
